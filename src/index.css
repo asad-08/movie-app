@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* :root{
+    --primary-color:#1F3044;
+    --secondary-color:#FB9039; 
+    --font-primary:#ffffff;
+    --secondary:#646C79;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

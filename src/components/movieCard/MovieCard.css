@@ -1,0 +1,15 @@
+/* .movie_card {
+    min-width: 200px !important;
+    max-width: 200px !important;
+}*/
+.card_img {
+    height: 65%;
+}
+.card_img img {
+    height: 100%;
+    width: 100%;
+}
+.movie_title {
+    font-size: 14px;
+    font-weight: 600;
+} 
